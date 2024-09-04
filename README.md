@@ -1,4 +1,5 @@
-# estudantealurastartBoas vindas ao meu perfil 💙💙
+# estudantealurastart 
+Boas vindas ao meu perfil 💙💙
 Meu nome é Mariane Cleisla
 
 Estou estudando na Alura
